@@ -1,0 +1,35 @@
+body{
+    background-color: #3C6255;
+}
+
+
+table{
+    background-color:#AAC8A7;
+    width: 350px;
+    height: 100px;
+    margin: 10px auto;
+    margin-top: 50px;
+    text-transform: uppercase;
+    padding: 10px;
+}
+button{
+   background-color:#C3EDC0;
+   align-items: center;
+   padding: .5em;
+   width: 100px;
+   border-radius: 5px;
+   margin-bottom: 10px;
+   
+}
+table input{
+    width: 200px;
+    padding: .3em;
+    margin:8px;
+    border-radius: 5px;
+    letter-spacing: .4em;
+    
+}
+table h2{
+    color:#EAE7B1;
+    letter-spacing: .3em;
+}
