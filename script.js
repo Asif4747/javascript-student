@@ -4,6 +4,8 @@ function message(){
     var x3=document.getElementById("regno").value;
     var x4=document.getElementById("grade").value;
     
-    alert("Name : "+x1+"\n class :"+x2+"\n regno :"+x3+"\n grade :"+x4);
+    let result = document.querySelector("#result")
+    result.innerHTML = "Name : "+x1+" class : "+x2+" regno : "+x3+" grade : "+x4
 
-}
+    
+}  
