@@ -4,8 +4,10 @@ body{
     font-family:Arial, Helvetica, sans-serif;
     display: grid;
     grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+    margin:150px auto;
 }
 .detail{
+    
     
     width: 300px;
     background-color:whitesmoke;
@@ -48,15 +50,18 @@ button{
     width:150px
 }
  table {
+    
+    border: 2px solid #EBD8B2;
     border-collapse: collapse;
     float:inline-start;
     width: 500px;
-    height:400px;
+    
+   
     margin: 200px auto;
     padding: 10px 10px 10px;
     overflow-x: auto;
     color:#EBD8B2;
-    border-color: #EBD8B2;
+   
 }
 footer{
     
